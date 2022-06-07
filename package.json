@@ -1,0 +1,19 @@
+{
+  "name": "ui-design-system",
+  "version": "0.1.0",
+  "description": "React library with styled components, a style theme and a intuative system to use them for faster and easier web development.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruudjuffermans/ui-design-system.git"
+  },
+  "author": "RuudJuffermans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruudjuffermans/ui-design-system/issues"
+  },
+  "homepage": "https://github.com/ruudjuffermans/ui-design-system#readme"
+}
